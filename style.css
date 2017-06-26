@@ -43,3 +43,8 @@ body{
 	color: gray;
 	font-size: 21px;
 }
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
